@@ -1,0 +1,15 @@
+bory{
+    background-color: green;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    heigt: 700px;
+    margin: 0;
+}
+button{
+    background-color: coral;
+    color: blue;
+    font-family: "Bai Jamjuree", sans-serif;
+}
